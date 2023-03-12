@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/foxt/icloud.js#readme",
   "dependencies": {
+	  "@types/node": "^18.6.4",
+    "@types/node-fetch": "^2.6.2",
+    "@types/tough-cookie": "^4.0.2",
     "dayjs": "^1.11.6",
     "node-fetch": "^2.6.7",
     "tough-cookie": "^4.0.0",
